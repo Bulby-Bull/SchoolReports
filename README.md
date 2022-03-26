@@ -2,68 +2,64 @@
 
 In addition to the reports, here is a non-exhaustive list of tools that are very useful in everyday life
 
-# For reports
+## For reports
 
-## Latex -> Overleaf with templates (can share the project online with several people)
+- Latex -> Overleaf with templates (can share the project online with several people)
 
-## Google Doc, slides, sheets (share some project online)
+- Google Doc, slides, sheets (share some project online)
 
-## Visio -> Make diagram, workflow, ...
+- Visio -> Make diagram, workflow, ...
 
-## Sci-Hub, Z-Lib, Libgen for specific paper
+- Sci-Hub, Z-Lib, Libgen for specific paper
 
-## DockHub -> Hub of a lot of precedent exams and reports
+- DockHub -> Hub of a lot of precedent exams and reports
 
-## Cible+ -> A lot of available papers
+- Cible+ -> A lot of available papers
 
-## Google Scholar, ResearchGate, Elsevier, Springer
+- Google Scholar, ResearchGate, Elsevier, Springer
 
-## https://edu.mynbn.be/nbnframework/index.php/site/login -> access to a lot of standard -> ask access to Mr. Dossogne
+## Project with code
 
-# Project with code
+- Git -> centralize the code
 
-## Git -> centralize the code
+- Github student -> More tools in GitHub for students
 
-## Github student -> More tools in GitHub for students
+- GitHub Projects -> Manage project with a TODO list as a Kanban
 
-## GitHub Projects -> Manage project with a TODO list as a Kanban
+- All jetbrains suite -> IDE for all languages and integration easier with github (more user friendly to merge, ...) and possibility to work with several people online (TDD progra)
 
-## All jetbrains suite -> IDE for all languages and integration easier with github (more user friendly to merge, ...) and possibility to work with several people online (TDD progra)
+- Spyder for Python in parallel with PyCharm -> Better to execute just block of code keeping variables in memory
 
-## Spyder for Python in parallel with PyCharm -> Better to execute just block of code keeping variables in memory
+- Kite -> Useful for autocompletion (C, C++, Java, Javascript, TypeScript, Python, C#, ...)
 
-## Kite -> Useful for autocompletion (C, C++, Java, Javascript, TypeScript, Python, C#, ...)
+- Anaconda to use easier Conda environments (to use different environments) -> interresting also for Machine Learning projects
 
-## Anaconda to use easier Conda environments (to use different environments) -> interresting also for Machine Learning projects
+- Ghidra -> To decompile
 
-## Ghidra -> To decompile
+## Master management
 
-# Master management
+- Redirect all mail to a centralized mail (from UCLouvain, UNamur, ...)
 
-## TimeEdit -> ULB schedule
+- Discord to have useful information
 
-## Redirect all mail to a centralized mail (from UCLouvain, UNamur, ...)
+## Divers
 
-## Discord to have useful information
+- Virtualization -> VMWare Workstation or VirtualBox
 
-# Divers
+- https://ciphersuite.info/ interesting for Crypto
 
-## Virtualization -> VMWare Workstation or VirtualBox
+- Azure -> 100$ free for student
 
-## https://ciphersuite.info/ interesting for Crypto
+## Help to learn
 
-## Azure -> 100$ free for student
+- TryHackMe -> to train practical cybersecurity skills 
 
-# Help to learn
+- https://quizlet.com/ to help you to memorize faster (example for Legal Aspect, https://quizlet.com/be/551698973/legalaspect-truefalse-flash-cards/)
 
-## TryHackMe -> to train practical cybersecurity skills 
+- Khan academy, Coursera
 
-## https://quizlet.com/ to help you to memorize faster (example for Legal Aspect, https://quizlet.com/be/551698973/legalaspect-truefalse-flash-cards/)
+- Youtube -> Computerphile for concept vulgarization
 
-## Khan academy, Coursera
+- https://www.youtube.com/user/hugolarochelle -> Useful for Machine Learning (FR & US)
 
-## Youtube -> Computerphile for concept vulgarization
-
-## https://www.youtube.com/user/hugolarochelle -> Useful for Machine Learning (FR & US)
-
-## Waybackmachine
+- Waybackmachine
